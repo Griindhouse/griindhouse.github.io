@@ -1,6 +1,6 @@
 # Download links
-- [Media Player Classic - Home Cinema 64-bit Installer](https://mpc-hc.org/downloads/)
-- [XySubFilter x64](https://github.com/Cyberbeing/xy-VSFilter/releases)
+- [Media Player Classic - Home Cinema 64-bit Installer](https://github.com/clsid2/mpc-hc/releases/latest) ([~~deprectated link~~](https://mpc-hc.org/downloads/))
+- [XySubFilter x64](https://github.com/pinterf/xy-VSFilter/releases/latest)  ([~~deprectated link~~](https://github.com/Cyberbeing/xy-VSFilter/releases))
 - [madVR](http://madshi.net/madVR.zip)
 
 # Installation
